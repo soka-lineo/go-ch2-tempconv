@@ -1,3 +1,3 @@
-module github.com/soka-lineo/go-ch2-tempconv
+module github.com/soka-lineo/tempconv
 
 go 1.20
